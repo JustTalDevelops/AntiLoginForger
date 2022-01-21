@@ -1,0 +1,7 @@
+---
+# Insert all allowed connection addresses below. If a player's client data does not contain any of the addresses listed
+# below, their connection will be rejected.
+allowed_addresses: [
+    "188.166.78.44:19132"
+]
+...
